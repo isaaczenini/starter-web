@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple website project fir showing how to use Git and GitHY=ub together.
-Adding a line from rebasing example
+Adding a line from rebasing example. Updating emergeny
 
 ## Introduction
 
